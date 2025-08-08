@@ -1,3 +1,3 @@
 ## About Me
 
-I'm a software developer.
+just another software developer
